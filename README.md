@@ -34,7 +34,7 @@ This project analyzes credit card transaction data using Power BI to identify fr
 
 ## Dashboard Preview
 
-(Add the dashboard screenshot below.)
+
 
 ## Dataset
 
