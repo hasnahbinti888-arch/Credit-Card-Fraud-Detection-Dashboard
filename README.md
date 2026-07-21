@@ -33,7 +33,7 @@ This project analyzes credit card transaction data using Power BI to identify fr
 - Interactive visuals support faster fraud monitoring.
 
 ## Dashboard Preview
-
+https://drive.google.com/file/d/1pz0krrEeEPmkfah7t4Rbo1AYL74ZA0Qt/view?usp=drivesdk
 
 
 ## Dataset
